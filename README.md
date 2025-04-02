@@ -10,9 +10,9 @@ Dependencies: SDL2, Vulkan-Headers, glm
 
 Linux Compilation Instructions: 
 
-CMake .
+`CMake .`
 
-make
+`make`
 
 Run `./vulkansdldemo` 
 
@@ -28,9 +28,11 @@ And recompile the shader files using glslc.
 
 Such as 
 
-glslc shader.frag -o frag.spv
+`glslc shader.frag -o frag.spv`
 
 The running effect is as follows:
+
+
 
 中文说明：
 
@@ -46,11 +48,11 @@ The running effect is as follows:
 
 Linux编译说明：
 
-CMake .
+`CMake .`
 
-make
+`make`
 
-运行./vulkansdldemo
+运行`./vulkansdldemo`
 
 着色器编译说明：
 
@@ -64,7 +66,7 @@ make
 
 如
 
-glslc shader.frag -o frag.spv
+`glslc shader.frag -o frag.spv`
 
 运行效果如下：
 
