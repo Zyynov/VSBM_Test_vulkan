@@ -10,7 +10,7 @@ Dependencies: SDL2, Vulkan-Headers, glm
 
 Linux Compilation Instructions: 
 
-`CMake .`
+`cmake .`
 
 `make`
 
@@ -48,7 +48,7 @@ The running effect is as follows:
 
 Linux编译说明：
 
-`CMake .`
+`cmake .`
 
 `make`
 
