@@ -12,9 +12,7 @@ Linux Compilation Instructions:
 
 CMake .
 
-
 make
-
 
 Run `./vulkansdldemo` 
 
@@ -32,10 +30,7 @@ Such as
 
 glslc shader.frag -o frag.spv
 
-
 The running effect is as follows:
-
-![20250403_00h31m20s_grim](https://github.com/user-attachments/assets/e4298385-21a6-428e-9286-dcaab88cdd1f)
 
 中文说明：
 
@@ -74,3 +69,4 @@ glslc shader.frag -o frag.spv
 运行效果如下：
 
 
+![20250403_00h31m20s_grim](https://github.com/user-attachments/assets/c17014a7-9737-464d-a640-0300a5b70d76)
